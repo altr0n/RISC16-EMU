@@ -1,0 +1,14 @@
+INTRO
+---------------------------------------------------------------------------
+
+This folder contains some simple work involving the RISC16 Processor which is a common example for introductory computer architecture courses.
+
+---------------------------------------------------------------------------
+
+In this folder you will find a simple verilog core of the RISC16, along with an assembler written in C. This project was done mainly to become more fmailiar with the Altera Quartus IDE.
+
+The CPU is simple with no pipelines or other complications, just a simple example for an introduction to Verilog. 
+
+I hope to soon put more work into this and add a pipelined data path.
+
+Enjoy!
